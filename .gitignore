@@ -1,0 +1,5 @@
+.env
+data/
+letsencrypt/
+.DS_Store
+Thumbs.db
